@@ -1,0 +1,23 @@
+body {
+  font-family: monospace;
+  margin: 30px;
+  font-size: large;
+}
+footer {
+  bottom: 0px;
+  position: absolute;
+  margin-bottom: 30px;
+}
+img.icon {
+  width: 80px;
+  border-radius: 10px;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+ul {
+  padding-left: 25px;
+}
+li {
+  margin-bottom: 10px;
+}
