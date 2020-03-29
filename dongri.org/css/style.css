@@ -9,12 +9,17 @@ html, body {
 }
 
 body {
-  margin: 200px;
+  margin: 10px;
+}
+
+div.box {
+  margin: 100px auto;
 }
 
 div.text {
   text-align: center;
-  font-size: 60px;
+  vertical-align: middle;
+  font-size: 40px;
   font-family: "SentyWEN2017";
 }
 
