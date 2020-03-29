@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "SentyWEN2017";
+  src: url("../fonts/SentyWEN2017.ttf") format("woff");
+}
+
+html, body {
+  width: 100;
+  height: 100;
+}
+
+body {
+  margin: 200px;
+}
+
+div.text {
+  text-align: center;
+  font-size: 60px;
+  font-family: "SentyWEN2017";
+}
+
+div.author {
+  text-align: center;
+  font-size: 30px;
+  font-family: "SentyWEN2017";
+  margin-top: 50px;
+}
