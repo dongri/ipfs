@@ -2,6 +2,7 @@ body {
   font-family: monospace;
   margin: 30px;
   font-size: large;
+  line-height: 30px;
 }
 footer {
   bottom: 0px;
@@ -9,7 +10,7 @@ footer {
   margin-bottom: 30px;
 }
 img.icon {
-  width: 80px;
+  width: 60px;
   border-radius: 10px;
   float: left;
   margin-right: 20px;
@@ -20,4 +21,7 @@ ul {
 }
 li {
   margin-bottom: 10px;
+}
+p {
+  margin: 0px;
 }
