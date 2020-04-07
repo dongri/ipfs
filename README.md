@@ -14,7 +14,7 @@ added QmY6wRXLNT4k4SzPBLFq34fcjbyoKRPHHSGgFVHprDS4KA dongri.eth/vue.min.js
 added QmZJxRbN7dujTURuBJUu2LPd5x6eWfHLf11uWHZUXtLbko dongri.eth
  206 B / 206 B [==================================================================] 100.00%
 
-$ ipfs pin add /ipfs/QmZJxRbN7dujTURuBJUu2LPd5x6eWfHLf11uWHZUXtLbko
+$ ipfs pin add QmZJxRbN7dujTURuBJUu2LPd5x6eWfHLf11uWHZUXtLbko
 pinned QmZJxRbN7dujTURuBJUu2LPd5x6eWfHLf11uWHZUXtLbko recursively
 
 $ ipfs name publish QmZJxRbN7dujTURuBJUu2LPd5x6eWfHLf11uWHZUXtLbko
