@@ -24,6 +24,9 @@ Published to QmWRPSjggWWRyydY5p8SqeoHNmydo49jb2symBq8nn2ZVu: /ipfs/QmZJxRbN7dujT
 # Open
 ```
 $ open https://gateway.ipfs.io/ipfs/QmZJxRbN7dujTURuBJUu2LPd5x6eWfHLf11uWHZUXtLbko
-
-$ open https://gateway.ipfs.io/ipns/QmWRPSjggWWRyydY5p8SqeoHNmydo49jb2symBq8nn2ZVu
 ```
+
+# pinata.cloud
+https://pinata.cloud
+
+
