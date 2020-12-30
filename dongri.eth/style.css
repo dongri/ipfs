@@ -15,7 +15,8 @@ img.icon {
   float: left;
   margin-top: 10px;
   margin-right: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 18px;
+  border: 1px solid #eee;
 }
 ul {
   padding-left: 25px;
@@ -25,4 +26,13 @@ li {
 }
 p {
   margin: 0px;
+}
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #181818;
+    color: #eee;
+  }
+  a {
+    color: lightgreen;
+  }
 }
