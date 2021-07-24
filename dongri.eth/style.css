@@ -16,7 +16,7 @@ img.icon {
   margin-top: 10px;
   margin-right: 20px;
   margin-bottom: 18px;
-  border: 1px solid #eee;
+  border: 1px solid #555;
 }
 ul {
   padding-left: 25px;
@@ -30,7 +30,7 @@ p {
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #181818;
-    color: #eee;
+    color: #ccc;
   }
   a {
     color: lightgreen;
