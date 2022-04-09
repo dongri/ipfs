@@ -1,13 +1,13 @@
 body {
   font-family: monospace;
-  margin: 60px;
+  margin: 30px;
   font-size: large;
   line-height: 30px;
 }
 footer {
   bottom: 0px;
   position: absolute;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 }
 img.icon {
   width: 60px;
