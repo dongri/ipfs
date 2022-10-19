@@ -4,6 +4,11 @@ body {
   font-size: large;
   line-height: 30px;
 }
+.content {
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 20px;
+}
 footer {
   bottom: 0px;
   position: absolute;
