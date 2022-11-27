@@ -4,10 +4,7 @@ if(url.indexOf('http:') >= 0) {
   location.replace(newUrl);
 }
 
-new Vue({
-  el: '#year',
-  data: { message: ' © ' + new Date().getFullYear() }
-})
+document.getElementById('year').innerHTML = new Date().getFullYear()
 
 const setTheme = (theme) => {
   if (theme === 'dark') {
