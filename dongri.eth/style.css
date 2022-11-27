@@ -1,13 +1,20 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
 body {
   font-family: monospace;
   margin: 30px;
   font-size: large;
-  line-height: 36px;
+  line-height: 30px;
 }
 .content {
   margin: 0 auto;
   max-width: 600px;
   padding: 20px;
+}
+h1 {
+  margin-bottom: 20px;
 }
 footer {
   bottom: 0px;
@@ -32,12 +39,25 @@ li {
 p {
   margin: 0px;
 }
-@media (prefers-color-scheme: dark) {
+
+/* @media (prefers-color-scheme: dark) {
   body {
     background-color: #181818;
-    color: #ccc;
+    color: #eee;
   }
   a {
     color: lightgreen;
   }
+} */
+
+.dark {
+  background-color: #181818;
+  color: #eee;
+}
+.dark a {
+  color: lightgreen;
+}
+
+#theme {
+  cursor: pointer;
 }
